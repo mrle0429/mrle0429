@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Le Liu（刘乐）</h1>
-<h3 align="center">Software Engineering Undergraduate | BJUT - UCD Joint Programme | Passionate about AI & Systems Design</h3>
+<h3 align="center">Software Engineering @BJUT | 💡 Recommender Systems, LLMs, System Design</h3>
 
 ---
 
-🎓 **Education**  
-BSc in Software Engineering (3rd Year)  
-📍 Beijing University of Technology - University College Dublin Joint Programme  
+🌟 **About Me**
+
+I'm a final-year undergraduate majoring in Software Engineering at the joint programme between Beijing University of Technology and University College Dublin.  
+I’m passionate about building intelligent systems that bridge **AI research** and **real-world applications**, especially in **recommendation systems**, **LLM tool-use**, and **backend system architecture**.
 
 ---
 🚀 **Currently Working On**  
@@ -21,4 +22,4 @@ BSc in Software Engineering (3rd Year)
 
 ---
 
-<sub>Last updated: 2025-04</sub>
+<sub>Last updated: 2025-07</sub>
