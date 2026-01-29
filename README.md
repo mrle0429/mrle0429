@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Le Liu（刘乐）</h1>
-<h3 align="center">Software Engineering @BJUT | Recommender Systems, LLMs, System Design</h3>
+<h3 align="center">Software Engineering @BJUT</h3>
 
 ---
 
